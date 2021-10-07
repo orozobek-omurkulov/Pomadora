@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pomadora/static/css/main.2a405a72.chunk.css",
+    "main.js": "/Pomadora/static/js/main.5a0f25ca.chunk.js",
+    "main.js.map": "/Pomadora/static/js/main.5a0f25ca.chunk.js.map",
+    "runtime-main.js": "/Pomadora/static/js/runtime-main.42246c1d.js",
+    "runtime-main.js.map": "/Pomadora/static/js/runtime-main.42246c1d.js.map",
+    "static/js/2.14f1c4f5.chunk.js": "/Pomadora/static/js/2.14f1c4f5.chunk.js",
+    "static/js/2.14f1c4f5.chunk.js.map": "/Pomadora/static/js/2.14f1c4f5.chunk.js.map",
+    "index.html": "/Pomadora/index.html",
+    "precache-manifest.1311dcd66b39ac493d611b86db938d49.js": "/Pomadora/precache-manifest.1311dcd66b39ac493d611b86db938d49.js",
+    "service-worker.js": "/Pomadora/service-worker.js",
+    "static/css/main.2a405a72.chunk.css.map": "/Pomadora/static/css/main.2a405a72.chunk.css.map",
+    "static/js/2.14f1c4f5.chunk.js.LICENSE.txt": "/Pomadora/static/js/2.14f1c4f5.chunk.js.LICENSE.txt",
+    "static/media/bell.flac": "/Pomadora/static/media/bell.525320df.flac"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42246c1d.js",
+    "static/js/2.14f1c4f5.chunk.js",
+    "static/css/main.2a405a72.chunk.css",
+    "static/js/main.5a0f25ca.chunk.js"
+  ]
+}
